@@ -7,6 +7,8 @@ public class MAIN {
 		
 		for (int i=0;i<10;i++) {
 			System.out.println("Hola Mario");
+			System.out.println("Hola Stefan");
+
 		}
 
 		System.out.println("#broLove #noHomo");
