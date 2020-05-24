@@ -13,6 +13,8 @@ public class MAIN {
 
 		System.out.println("#broLove #noHomo");
 		thisIsANewMethod();
+		PullRequestCodeOfTeamRomaoLinder();
+		
 	}
 	
 	public static void thisIsANewMethod() { 
@@ -35,8 +37,8 @@ public class MAIN {
 		
 
 	}
-	
-	
+	public static void PullRequestCodeOfTeamRomaoLinder() {
+	}
 	
 	
 
